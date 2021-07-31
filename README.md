@@ -6,7 +6,7 @@ My name is Jun.
 
 ## Personally
 
-I was currently live with my family in Amoy, which is a small island in China.
+I was currently live with my family in [Amoy](https://en.wikipedia.org/wiki/Xiamen), which is a small island in China.
 
 I'm an enthusiast of new technologies, always eager to try new things.
 
@@ -16,7 +16,7 @@ I'm now working as an Engineer at [@ringcentral](https://github.com/ringcentral)
 
 Prior working at [@Sumi-Interactive](https://github.com/Sumi-Interactive) and [@pracstrat](https://github.com/pracstrat).
 
-In GitHub, I've many open-source projects, most of which are written with Elixir and Ruby. Ruby truly makes me happy while programming. And I also really enjoy programming with Elixir on a power OTP platform.
+In GitHub, I've many open-source projects, most of which are written with Elixir and Ruby. Ruby truly makes me happy while programming. And I also really enjoy programming with Elixir on a powerful OTP platform.
 
 ## Communicating with me
 
