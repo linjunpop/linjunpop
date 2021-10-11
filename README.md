@@ -8,8 +8,6 @@ My name is Jun.
 
 I was currently live with my family in [Amoy](https://en.wikipedia.org/wiki/Xiamen), which is a small island in China.
 
-I'm an enthusiast of new technologies, always eager to try new things.
-
 ## As an employee
 
 I'm now working as an Engineer at [@ringcentral](https://github.com/ringcentral). My daily work is working with excellent colleagues from the Integration Team to maintaining some of [RingCentral Apps](https://www.ringcentral.com/apps/).
