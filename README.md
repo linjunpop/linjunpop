@@ -30,8 +30,6 @@ In GitHub, I've many open-source projects, most of which are written with Elixir
 You can find me on [Twitter](http://twitter.com/linjunpop), or
 just [send me an email](mailto:linjunpop@gmail.com)
 
-Buy me a ☕️/🍺: https://paypal.me/linjunpop
-
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linjunpop&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
